@@ -21,7 +21,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to Pages
-        uses: JamesIves/github-pages-deploy-action@4.4.0
+        uses: JamesIves/github-pages-deploy-action@4
         with: 
           branch: rendered
           folder: public
