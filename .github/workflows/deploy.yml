@@ -7,10 +7,14 @@ on:
 
 jobs:
   deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
+
+      - name: Update theme
+        run: git submodule update --init --recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.5.0
@@ -24,4 +28,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with: 
           branch: rendered
-          folder: public
+          folder: ./public
