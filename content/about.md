@@ -7,7 +7,7 @@ slug = "about"
 
 # :wave: I'm Xander
 
-I create Minecraft mods using Kotlin and Java, I love doing what I'm doing. My mods are on [GitHub](https://github.com/isXander?tab=repositories&q=minecraft+mod), [Curseforge](https://www.curseforge.com/members/xanderisdev) and [Modrinth](https://modrinth.com/user/isxander). I have also tinkered with some statistical analysis and AI with [Python](https://github.com/isXander?tab=repositories&language=python)
+I create Minecraft mods using Kotlin and Java, I love doing what I'm doing. My mods are on [GitHub](https://github.com/isXander?tab=repositories&q=minecraft+mod), [Curseforge](https://www.curseforge.com/members/xanderisdev) and [Modrinth](https://modrinth.com/user/isxander). I have also tinkered with some statistical analysis and AI with [Python](https://github.com/isXander?tab=repositories&language=python).
 
 # My Successes
 
@@ -25,6 +25,6 @@ As of August 2022, I have reached over 2 million total downloads on [Curseforge]
 
 ## Youtube
 
-I got a video to go semi-viral using an extremely simple AI I made to scan video clips and identify faces against a folder of images, this program then outputed "scenes" (or clips) where the faces were present to then easily edit into [a compilation video](https://https://youtu.be/erhUvfL4crM). **This project is called [FaceFinder](https://github.com/isXander/FaceFinder).**
+I got a video to go semi-viral using an extremely simple AI I made to scan video clips and identify faces against a folder of images, this program then outputs "scenes" (or clips) where the faces were present to then easily edit into [a compilation video](https://https://youtu.be/erhUvfL4crM). **This project is called [FaceFinder](https://github.com/isXander/FaceFinder).**
 
 {{< youtube erhUvfL4crM >}}
