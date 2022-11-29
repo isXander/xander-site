@@ -13,15 +13,18 @@ I create Minecraft mods using Kotlin and Java, I love doing what I'm doing. My m
 
 ## Minecraft Mods
 
-As of August 2022, I have reached over 2 million total downloads on [Curseforge](https://www.curseforge.com/members/xanderisdev) alone, making a nice bonus of revenue, my most popular being [Zoomify](https://curseforge.com/minecraft/mc-mods/zoomify) (a simple zoom mod), and [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (a mod that fixes bugs in the game), both being included in the [most popular modpack](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric) for [FabricMC](https://fabricmc.net).
+As of the end of November 2022, I have reached over 7 million total downloads on [Curseforge](https://www.curseforge.com/members/xanderisdev) alone, making a nice bonus of revenue, my most popular being [Zoomify](https://curseforge.com/minecraft/mc-mods/zoomify) (a simple zoom mod), and [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (a mod that fixes bugs in the game), both being included in the [most popular modpack](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric) for [FabricMC](https://fabricmc.net).
 
-| Mod                                                                             | Description                                               |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Zoomify](https://curseforge.com/minecraft/mc-mods/zoomify)                     | Adds zooming functionality to Minecraft                   |
-| [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                   | Fixes bugs in the vanilla game faster than Mojang         |
-| [Cull Less Leaves](https://curseforge.com/minecraft/mc-mods/cull-less-leaves)   | Improves performance by skipping rendering of some leaves |
-| [Pronounify](https://curseforge.com/minecraft/mc-mods/pronounify)               | Shows players' pronouns in various ways                   |
-| [Main Menu Credits](https://curseforge.com/minecraft/mc-mods/main-menu-credits) | Adds text to the title screen to credit modpacks          |
+| Mod                                                                             | Description                                                           |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Zoomify](https://curseforge.com/minecraft/mc-mods/zoomify)                     | Adds zooming functionality to Minecraft                               |
+| [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                   | Fixes bugs in the vanilla game faster than Mojang                     |
+| [YetAnotherConfigLib](https://curseforge.com/minecraft/mc-mods/yacl)            | A library to manage generating user-friendly config GUIs              |
+| [Cull Less Leaves](https://curseforge.com/minecraft/mc-mods/cull-less-leaves)   | Improves performance by skipping rendering of some leaves             |
+| [Pronounify](https://curseforge.com/minecraft/mc-mods/pronounify)               | Shows players' pronouns in various ways                               |
+| [Main Menu Credits](https://curseforge.com/minecraft/mc-mods/main-menu-credits) | Adds text to the title screen to credit modpacks                      |
+| [AdaptiveTooltips](https://curseforge.com/minecraft/mc-mods/adaptive-tooltips)  | Highly configurable tooltip rendering, so you can *always* read them! |
+
 
 ## Youtube
 
