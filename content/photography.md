@@ -19,18 +19,18 @@ I have also started an instagram where I post new photos [here](https://instagra
 
 ![Cloudy Motorway Sunset](/images/photographs/motorway-sunset.jpg) *Cloudy Motorway Sunset - 2023*
 
-![Monochrome Road](/images/photography/monochrome-road.jpg) *Monochrome Road - 2023*
+![Monochrome Road](/images/photographs/monochrome-road.jpg) *Monochrome Road - 2023*
 
-![Firework](/images/photography/firework.jpg) *Firework - 2022*
+![Firework](/images/photographs/firework.jpg) *Firework - 2022*
 
-![Huskie](/images/photography/huskie.jpg) *Huskie - 2023*
+![Huskie](/images/photographs/huskie.jpg) *Huskie - 2023*
 
-![St. James Church](/images/photography/st-james-church-louth.jpg) *St. James Church Louth - 2022*
+![St. James Church](/images/photographs/st-james-church-louth.jpg) *St. James Church Louth - 2022*
 
-![Sunset River](/images/photography/sunset-river.jpg) *Sunset River - 2022*
+![Sunset River](/images/photographs/sunset-river.jpg) *Sunset River - 2022*
 
-![St. James Church Spire](/images/photography/st-james-church-louth-spire.jpg) *St. James Church Spire - 2022*
+![St. James Church Spire](/images/photographs/st-james-church-louth-spire.jpg) *St. James Church Spire - 2022*
 
-![Wood Burner](/images/photpgraohy/wood-burner.jpg) *Wood Burner - 2022*
+![Wood Burner](/images/photographs/wood-burner.jpg) *Wood Burner - 2022*
 
 {{% /center %}}
