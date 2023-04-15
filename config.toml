@@ -123,16 +123,21 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "YetAnotherConfigLib"
 weight = 2
-url = "posts/"
+url = "https://docs.isxander.dev/yet-another-config-lib"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Controlify"
 weight = 3
-url = "projects/"
+url = "https://docs.isxander.dev/controlify"
 
 [[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+name = "Photography"
+weight = 4
+url = "photography/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

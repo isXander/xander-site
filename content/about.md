@@ -54,15 +54,23 @@ Today, the mod still lives on under new maintainers, [Polyfrost](https://github.
 
 ## Commissions
 
-### Ape Initiative (non-profit)
+### Ape Initiative
 
-In early April 2023, I took a commission for [Ape Initiative](https://www.apeinitiative.org/) where I had
-to create a touchscreen control scheme to allow chimpanzees to play Minecraft, to further the understanding
-of how ape minds work.
+In early April 2023, I took a commission for a youtuber, [ChisDaCow](https://youtube.com/@ChrisDaCow)
+where I had to create a touchscreen control scheme to allow chimpanzees to play Minecraft. He then took this
+mod to [Ape Initiative](https://www.apeinitiative.org/) in Iowa where Kanzi, the eldest of the apes,
+learned how to break blocks with my controls in just 30 minutes! According to the researchers, this was the 
+most advanced thing they had ever done on a screen!
 
-I collaborated with researchers to come up with a data-driven, configurable touch interface with rows,
-columns and [lexigram](https://www.apeinitiative.org/lexigrams) buttons where I then heavily modified
-Minecraft so it can be controlled in-game with just single taps, without a mouse or keyboard.
+I achieved this by collaborating with the youtuber to come up with a data-driven, configurable touch 
+interface with rows, columns and [lexigram](https://www.apeinitiative.org/lexigrams) buttons where I then
+heavily modified Minecraft so it can be controlled in game with just single taps, without the need for a 
+mouse and keyboard.
+
+Below you can see a demonstration of the mod, using a mouse as a finger, as I don't own a touchscreen
+device:
+
+![example of the mod](/images/bonobo-control-mod.gif)
 
 A video was published to YouTube about this topic, which includes me speaking about the mod.
 
