@@ -1,3 +1,10 @@
++++ 
+draft = false
+date = 2023-04-15T20:16:16+01:00
+title = "Photography"
+slug = "photography" 
++++
+
 # Photography
 
 From a very young age, I have been interested in photography. I just felt like I needed to capture sights like no one had seen them before. Taking shots that stood out in the crowd of mediocre smartphone pictures.
