@@ -7,7 +7,7 @@ slug = "about"
 
 # :wave: I'm Xander
 
-I create Minecraft mods using Kotlin and Java, I love doing what I'm doing.
+I create Minecraft mods using Java and Kotlin, I love doing what I'm doing.
 My mods are on [GitHub](https://github.com/isXander?tab=repositories&q=minecraft+mod),
 [Curseforge](https://www.curseforge.com/members/xanderisdev) and
 [Modrinth](https://modrinth.com/user/isxander). I occasionally do commission work for Minecraft mods
@@ -15,11 +15,14 @@ if I see a request that particularly interests me or I feel like it will help fu
 and experiences. I have also tinkered with some statistical analysis and AI with
 [Python](https://github.com/isXander?tab=repositories&language=python).
 
+Another passion of mine is photography. You can read more about that and see some pictures I've taken
+[here](/photography). I've got a camera, drone and a phone with a good camera system.
+
 # My Successes
 
 ## Personal Minecraft Mods
 
-As of the mid-April 2023, I have reached over 16 million total downloads on
+As of the end of April 2023, I have reached over 17 million total downloads on
 [Curseforge](https://www.curseforge.com/members/xanderisdev) alone, making a nice bonus of revenue,
 my most popular being Zoomify, Debugify and YetAnotherConfigLib, all of which are included in the
 [most popular modpack](https://www.curseforge.com/minecraft/modpacks/better-mc-fabric) for
