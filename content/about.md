@@ -77,7 +77,7 @@ device:
 
 A video was published to YouTube about this topic, which includes me speaking about the mod.
 
-*video not yet released*
+{{< youtube UKpFoYqN9-0 >}}
 
 ### Socksfor1 YouTuber
 
