@@ -18,4 +18,4 @@ I have started an instagram where I post new photos [here](https://instagram.com
 
 Click on an image to bring up full resolution!
 
-{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" thumbnailHoverEffect="enlarge" embedPreview=true loadJQuery=true >}}
+{{< gallery match="images/*" sortOrder="random" rowHeight="200" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" thumbnailHoverEffect="enlarge" embedPreview=true loadJQuery=true >}}
