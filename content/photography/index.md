@@ -9,10 +9,12 @@ I have started an instagram where I post new photos [here](https://instagram.com
 
 ## My Current Equipment
 
-- Canon EOS R10 - I saved up £1000 of my own money to buy this in late 2022.
-  - RF-S 18-45mm F4.5-6.3 IS STM Kit
-- DJI Air 2S - A photography drone that I use to take pictures I would never have been able to get before.
-- Pixel 6 Pro - My camera for on-the-go.
+- Canon EOS R10
+  - Sigma 50-100mm F1.8 DC HSM | Art (for Canon EF)
+  - Canon RF-S 18-45mm F4.5-6.3 IS STM
+  - Canon EF-EOS R Adapter
+- DJI Air 2S
+- Pixel 6 Pro
 
 ## My Best Work
 
