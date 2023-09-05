@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'isXander'
 theme = ['hugo-coder', "hugo-shortcode-gallery"]
 enableEmoji = true
+timeout = "2m"
 
 [params]
 author = "isXander"
