@@ -5,7 +5,7 @@ title = "Photography"
 slug = "photography" 
 +++
 
-I have started an instagram where I post new photos [here](https://instagram.com/xander.pics).
+I have started an instagram where I post new photos [here](https://instagram.com/isxander.pics).
 
 ## My Current Equipment
 
