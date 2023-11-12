@@ -147,6 +147,11 @@ name = "Photography"
 weight = 4
 url = "photography/"
 
+[[languages.en.menu.main]]
+name = "Beta Site"
+weight = 5
+url = "https://v2.isxander.dev"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
